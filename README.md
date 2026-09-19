@@ -25,9 +25,8 @@ Registrar minha evolução durante o aprendizado de desenvolvimento web, mantend
 HTML5
 CSS3
 Visual Studio Code
+
 📖 Curso
-
 Curso de HTML5 e CSS3 — Curso em Vídeo
-
 Professor: Gustavo Guanabara
 ```
