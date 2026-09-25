@@ -6,14 +6,9 @@ Repositório criado para armazenar os códigos desenvolvidos durante meus estudo
 
 Aqui estão os exercícios, exemplos e práticas desenvolvidos ao longo das aulas.
 
-A organização segue a sequência das aulas do curso:
+A organização não segue, necessariamente, a sequência das aulas do curso:
 
 ```text
-Aula01/
-Aula02/
-Aula03/
-Aula04/
-...
 
 Cada pasta contém os arquivos utilizados naquela aula.
 
